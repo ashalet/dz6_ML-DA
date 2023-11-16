@@ -1,3 +1,3 @@
 # dz6_ML-DA
 Репозиторий 6-го задания курса "Машинное обучение и анализ данных"
-Развлекательный бот с предсказанием выживания на Титанике. Основан на [датасете]([(https://www.kaggle.com/competitions/titanic/data?select=test.csv)].
+Развлекательный бот с предсказанием выживания на Титанике. Основан на [датасете](https://www.kaggle.com/competitions/titanic/data?select=test.csv)
